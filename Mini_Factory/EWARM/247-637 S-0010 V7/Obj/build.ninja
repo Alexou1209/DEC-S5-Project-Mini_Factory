@@ -1,0 +1,82 @@
+#Generating source browse information for project 247-637 S-0010 V7
+
+
+#Abbreviations
+cc = C$:\Program$ Files$ (x86)\IAR$ Systems\Embedded$ Workbench$ 8.4\common\bin\SourceIndexer.exe
+ll = C$:\Program$ Files$ (x86)\IAR$ Systems\Embedded$ Workbench$ 8.4\common\bin\PbdLink.exe
+bd = C$:\Program$ Files$ (x86)\IAR$ Systems\Embedded$ Workbench$ 8.4\common\bin\makeBrowseData.exe
+
+
+
+#Rules
+rule index
+  depfile = $out.dep
+  command = $cc -out=$out -f $in
+rule link
+  command = $ll -M $out $in
+rule browsedata
+  command = $bd $in -output  $out
+
+
+
+#Build steps
+build Bouton1_Interface.pbi : index Bouton1_Interface.xcl
+build Bouton_Arret_Interface.pbi : index Bouton_Arret_Interface.xcl
+build Bouton_Depart_Interface.pbi : index Bouton_Depart_Interface.xcl
+build Carte_Lumiere_Interface.pbi : index Carte_Lumiere_Interface.xcl
+build Convoyeur_Interface.pbi : index Convoyeur_Interface.xcl
+build Detecteur_Capacitif_Interface.pbi : index Detecteur_Capacitif_Interface.xcl
+build Detecteur_Elevateur_Interface.pbi : index Detecteur_Elevateur_Interface.xcl
+build Detecteur_Optique_Chute_Interface.pbi : index Detecteur_Optique_Chute_Interface.xcl
+build Detecteur_Optique_Interface.pbi : index Detecteur_Optique_Interface.xcl
+build Detecteur_Piston_Interface.pbi : index Detecteur_Piston_Interface.xcl
+build Detecteur_Poussoir_Magasin_Interface.pbi : index Detecteur_Poussoir_Magasin_Interface.xcl
+build Detecteur_Ventouse_Interface.pbi : index Detecteur_Ventouse_Interface.xcl
+build Elevateur_Interface.pbi : index Elevateur_Interface.xcl
+build interfaceMoteur.pbi : index interfaceMoteur.xcl
+build interfaceS0008.pbi : index interfaceS0008.xcl
+build Poussoir_Magasin_Interface.pbi : index Poussoir_Magasin_Interface.xcl
+build Carte_Lumiere_Pilote.pbi : index Carte_Lumiere_Pilote.xcl
+build I2C_Pilote.pbi : index I2C_Pilote.xcl
+build OB1_Pilote.pbi : index OB1_Pilote.xcl
+build piloteCAN1.pbi : index piloteCAN1.xcl
+build piloteIOMoteur.pbi : index piloteIOMoteur.xcl
+build piloteTimer6Up.pbi : index piloteTimer6Up.xcl
+build piloteUSART2.pbi : index piloteUSART2.xcl
+build processusAscenceur.pbi : index processusAscenceur.xcl
+build processusPasserelleCan637.pbi : index processusPasserelleCan637.xcl
+build I2C_PCF_Service.pbi : index I2C_PCF_Service.xcl
+build serviceBaseDeTemps.pbi : index serviceBaseDeTemps.xcl
+build serviceProtocole637.pbi : index serviceProtocole637.xcl
+build main.pbi : index main.xcl
+build stm32f4xx_hal_msp.pbi : index stm32f4xx_hal_msp.xcl
+build stm32f4xx_it.pbi : index stm32f4xx_it.xcl
+build system_stm32f4xx.pbi : index system_stm32f4xx.xcl
+build stm32f4xx_hal.pbi : index stm32f4xx_hal.xcl
+build stm32f4xx_hal_can.pbi : index stm32f4xx_hal_can.xcl
+build stm32f4xx_hal_cortex.pbi : index stm32f4xx_hal_cortex.xcl
+build stm32f4xx_hal_dma.pbi : index stm32f4xx_hal_dma.xcl
+build stm32f4xx_hal_dma_ex.pbi : index stm32f4xx_hal_dma_ex.xcl
+build stm32f4xx_hal_exti.pbi : index stm32f4xx_hal_exti.xcl
+build stm32f4xx_hal_flash.pbi : index stm32f4xx_hal_flash.xcl
+build stm32f4xx_hal_flash_ex.pbi : index stm32f4xx_hal_flash_ex.xcl
+build stm32f4xx_hal_flash_ramfunc.pbi : index stm32f4xx_hal_flash_ramfunc.xcl
+build stm32f4xx_hal_gpio.pbi : index stm32f4xx_hal_gpio.xcl
+build stm32f4xx_hal_pwr.pbi : index stm32f4xx_hal_pwr.xcl
+build stm32f4xx_hal_pwr_ex.pbi : index stm32f4xx_hal_pwr_ex.xcl
+build stm32f4xx_hal_rcc.pbi : index stm32f4xx_hal_rcc.xcl
+build stm32f4xx_hal_rcc_ex.pbi : index stm32f4xx_hal_rcc_ex.xcl
+build stm32f4xx_hal_tim.pbi : index stm32f4xx_hal_tim.xcl
+build stm32f4xx_hal_tim_ex.pbi : index stm32f4xx_hal_tim_ex.xcl
+build stm32f4xx_hal_uart.pbi : index stm32f4xx_hal_uart.xcl
+build 247-637$ S-0010$ V7_part0.pbi : link Bouton1_Interface.pbi Bouton_Arret_Interface.pbi Bouton_Depart_Interface.pbi Carte_Lumiere_Interface.pbi Convoyeur_Interface.pbi Detecteur_Capacitif_Interface.pbi Detecteur_Elevateur_Interface.pbi
+build 247-637$ S-0010$ V7_part1.pbi : link Detecteur_Optique_Chute_Interface.pbi Detecteur_Optique_Interface.pbi Detecteur_Piston_Interface.pbi Detecteur_Poussoir_Magasin_Interface.pbi Detecteur_Ventouse_Interface.pbi Elevateur_Interface.pbi interfaceMoteur.pbi
+build 247-637$ S-0010$ V7_part2.pbi : link interfaceS0008.pbi Poussoir_Magasin_Interface.pbi Carte_Lumiere_Pilote.pbi I2C_Pilote.pbi OB1_Pilote.pbi piloteCAN1.pbi piloteIOMoteur.pbi
+build 247-637$ S-0010$ V7_part3.pbi : link piloteTimer6Up.pbi piloteUSART2.pbi processusAscenceur.pbi processusPasserelleCan637.pbi I2C_PCF_Service.pbi serviceBaseDeTemps.pbi serviceProtocole637.pbi
+build 247-637$ S-0010$ V7_part4.pbi : link main.pbi stm32f4xx_hal_msp.pbi stm32f4xx_it.pbi system_stm32f4xx.pbi stm32f4xx_hal.pbi stm32f4xx_hal_can.pbi stm32f4xx_hal_cortex.pbi
+build 247-637$ S-0010$ V7_part5.pbi : link stm32f4xx_hal_dma.pbi stm32f4xx_hal_dma_ex.pbi stm32f4xx_hal_exti.pbi stm32f4xx_hal_flash.pbi stm32f4xx_hal_flash_ex.pbi stm32f4xx_hal_flash_ramfunc.pbi stm32f4xx_hal_gpio.pbi
+build 247-637$ S-0010$ V7_part6.pbi : link stm32f4xx_hal_pwr.pbi stm32f4xx_hal_pwr_ex.pbi stm32f4xx_hal_rcc.pbi stm32f4xx_hal_rcc_ex.pbi stm32f4xx_hal_tim.pbi stm32f4xx_hal_tim_ex.pbi stm32f4xx_hal_uart.pbi
+build 247-637$ S-0010$ V7.pbd : link 247-637$ S-0010$ V7_part0.pbi 247-637$ S-0010$ V7_part1.pbi 247-637$ S-0010$ V7_part2.pbi 247-637$ S-0010$ V7_part3.pbi 247-637$ S-0010$ V7_part4.pbi 247-637$ S-0010$ V7_part5.pbi 247-637$ S-0010$ V7_part6.pbi
+build 247-637$ S-0010$ V7.pbw : browsedata 247-637$ S-0010$ V7.pbd
+
+

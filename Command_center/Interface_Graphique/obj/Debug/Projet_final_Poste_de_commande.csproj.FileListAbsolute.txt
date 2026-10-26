@@ -1,0 +1,150 @@
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\bin\Debug\Projet_final_Poste_de_commande.exe.config
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\bin\Debug\Projet_final_Poste_de_commande.exe
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\bin\Debug\Projet_final_Poste_de_commande.pdb
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\obj\Debug\Projet_final_Poste_de_commande.csproj.AssemblyReference.cache
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\obj\Debug\Projet_final_Poste_de_commande.frm_factory_API.resources
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\obj\Debug\Projet_final_Poste_de_commande.Properties.Resources.resources
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\obj\Debug\Projet_final_Poste_de_commande.csproj.GenerateResource.cache
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\obj\Debug\Projet_final_Poste_de_commande.csproj.CoreCompileInputs.cache
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\obj\Debug\Projet_final_Poste_de_commande.exe
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\obj\Debug\Projet_final_Poste_de_commande.pdb
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\bin\Debug\Renci.SshNet.dll
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\bin\Debug\Renci.SshNet.xml
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\obj\Debug\Projet_f.D5E0A697.Up2Date
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\bin\Debug\AForge.dll
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\bin\Debug\AForge.Video.DirectShow.dll
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\bin\Debug\AForge.Video.dll
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\bin\Debug\AForge.xml
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\bin\Debug\AForge.Video.xml
+D:\Cegep-Autome-2024\FinaleProject\Projet_final_Poste_de_commande\bin\Debug\AForge.Video.DirectShow.xml
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Projet_final_Poste_de_commande.exe.config
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Projet_final_Poste_de_commande.exe
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Projet_final_Poste_de_commande.pdb
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\AForge.dll
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\AForge.Video.DirectShow.dll
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\AForge.Video.dll
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Renci.SshNet.dll
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\AForge.xml
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\AForge.Video.xml
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\AForge.Video.DirectShow.xml
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Renci.SshNet.xml
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.csproj.AssemblyReference.cache
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.frm_factory_API.resources
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.Properties.Resources.resources
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.csproj.GenerateResource.cache
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.csproj.CoreCompileInputs.cache
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_f.D5E0A697.Up2Date
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.exe
+D:\Cegep-Autome-2024\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.pdb
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Projet_final_Poste_de_commande.exe.config
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Projet_final_Poste_de_commande.exe
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Projet_final_Poste_de_commande.pdb
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\AForge.dll
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\AForge.Video.DirectShow.dll
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\AForge.Video.dll
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Renci.SshNet.dll
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\AForge.xml
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\AForge.Video.xml
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\AForge.Video.DirectShow.xml
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Renci.SshNet.xml
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.csproj.AssemblyReference.cache
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.frm_factory_API.resources
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.Properties.Resources.resources
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.csproj.GenerateResource.cache
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.csproj.CoreCompileInputs.cache
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_f.D5E0A697.Up2Date
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.exe
+D:\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.pdb
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Projet_final_Poste_de_commande.exe.config
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Projet_final_Poste_de_commande.exe
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Projet_final_Poste_de_commande.pdb
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\AForge.dll
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\AForge.Video.DirectShow.dll
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\AForge.Video.dll
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Renci.SshNet.dll
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\AForge.xml
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\AForge.Video.xml
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\AForge.Video.DirectShow.xml
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\Renci.SshNet.xml
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.csproj.AssemblyReference.cache
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.frm_factory_API.resources
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.Properties.Resources.resources
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.csproj.GenerateResource.cache
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.csproj.CoreCompileInputs.cache
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_f.D5E0A697.Up2Date
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.exe
+E:\FinaleProject\Poste-de-commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.pdb
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\bin\Debug\Projet_final_Poste_de_commande.exe.config
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\bin\Debug\Projet_final_Poste_de_commande.exe
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\bin\Debug\Projet_final_Poste_de_commande.pdb
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\bin\Debug\AForge.dll
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\bin\Debug\AForge.Video.dll
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\bin\Debug\Renci.SshNet.dll
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\bin\Debug\AForge.xml
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\bin\Debug\AForge.Video.xml
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\bin\Debug\Renci.SshNet.xml
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.csproj.AssemblyReference.cache
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.frm_factory_API.resources
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.Properties.Resources.resources
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.csproj.GenerateResource.cache
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.csproj.CoreCompileInputs.cache
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\obj\Debug\Projet_f.D5E0A697.Up2Date
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.exe
+C:\Users\darky\OneDrive\Bureau\poste de commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.pdb
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\bin\Debug\Projet_final_Poste_de_commande.exe.config
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\bin\Debug\Projet_final_Poste_de_commande.exe
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\bin\Debug\Projet_final_Poste_de_commande.pdb
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\bin\Debug\AForge.dll
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\bin\Debug\AForge.Video.dll
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\bin\Debug\Renci.SshNet.dll
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\bin\Debug\AForge.xml
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\bin\Debug\AForge.Video.xml
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\bin\Debug\Renci.SshNet.xml
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.csproj.AssemblyReference.cache
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.frm_factory_API.resources
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.Properties.Resources.resources
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.csproj.GenerateResource.cache
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.csproj.CoreCompileInputs.cache
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\obj\Debug\Projet_f.D5E0A697.Up2Date
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.exe
+C:\Users\darky\OneDrive\Bureau\poste_de_commande\Interface_Graphique\obj\Debug\Projet_final_Poste_de_commande.pdb
