@@ -1,5 +1,7 @@
 # Mini_Factory — Distributed Automated Production System
 
+https://github.com/user-attachments/assets/67df37b4-28ec-424f-895c-59ac1bf8529d
+
 ## About the Project
 Developed during an intensive **4-week period by a team of 4**, this 5th-semester technical college project consists of designing and implementing a distributed, automated mini-factory. 
 
@@ -40,12 +42,12 @@ The codebase is structured according to the distributed hardware architecture of
 * **MapiMorin**
   * Developed the entire embedded software stack for the autonomous AGV (line-following loop and Wi-Fi network sockets on ESP32).
 
-* **Alexandre Dionne**
+* [**Alexandre Dionne**](https://github.com/Alexou1209)
   * Developed the complete finite-state machine (FSM) and global automation sequence for the factory layout (DS89C450).
   * Designed, calibrated, and programmed the data acquisition firmware for the sorting scale.
 ---
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 * **Languages:** C/C++ (Embedded Microcontrollers), C# (Control Desktop Interface).
 * **Network Protocols:** CAN Bus (Controller Area Network), Wi-Fi (UDP sockets).
 * **Hardware Platforms:** Maxim Integrated DS89C450 (Ultra-High-Performance 8051 Core), STMicroelectronics STM32F407 (ARM Cortex-M4), Espressif ESP32.
